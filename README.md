@@ -151,14 +151,18 @@ Pittsburgh acts as the **central hub of real estate activity**, indicating high 
    * Price category segmentation (donut chart)
 
 * Screenshot of overview page :
+<img width="1318" height="743" alt="image" src="https://github.com/user-attachments/assets/80947876-2a59-4d2f-b1f2-7e6818612f9e" />
 
-1. **Deeper analysis** 
+
+
+2. **Deeper analysis** 
 
    * Sales volume by sale type (bar chart)
    * Value of sale by month (scatter plot)
    * Decomposition tree on total sales , city and month 
 
-* Screenshot of overview page :
+* Screenshot of depper analysis page :
+<img width="1317" height="738" alt="image" src="https://github.com/user-attachments/assets/2edc1698-3246-47c2-9bcd-d62b317bf1c6" />
 
 
 ---
